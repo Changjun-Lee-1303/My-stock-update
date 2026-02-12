@@ -1,0 +1,27 @@
+{"ts": "2025-12-14T16:51:55.487715Z", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T16:51:55.488528Z", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T16:56:30.253853+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T16:56:30.254718+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T16:58:49.968121+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T16:58:49.968945+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T17:01:18.065974+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T17:01:18.066666+00:00", "kind": "peg", "symbol": null, "used_field": "growth_candidate", "value": 0.2, "note": "used field value 0.2"}
+{"ts": "2025-12-14T17:01:18.066722+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth_pct": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T17:03:14.490102+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T17:03:14.491020+00:00", "kind": "peg", "symbol": null, "used_field": "growth_candidate", "value": 0.2, "note": "used field value 0.2"}
+{"ts": "2025-12-14T17:03:14.491077+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth_pct": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T17:14:07.546893+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T17:14:07.547737+00:00", "kind": "peg", "symbol": null, "used_field": "growth_candidate", "value": 0.2, "note": "used field value 0.2"}
+{"ts": "2025-12-14T17:14:07.547799+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth_pct": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T17:24:18.046177+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T17:24:18.046835+00:00", "kind": "peg", "symbol": null, "used_field": "growth_candidate", "value": 0.2, "note": "used field value 0.2"}
+{"ts": "2025-12-14T17:24:18.046893+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth_pct": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T17:26:13.650968+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T17:26:13.651805+00:00", "kind": "peg", "symbol": null, "used_field": "growth_candidate", "value": 0.2, "note": "used field value 0.2"}
+{"ts": "2025-12-14T17:26:13.651862+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth_pct": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T17:31:07.441008+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T17:31:07.441693+00:00", "kind": "peg", "symbol": null, "used_field": "growth_candidate", "value": 0.2, "note": "used field value 0.2"}
+{"ts": "2025-12-14T17:31:07.441749+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth_pct": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}
+{"ts": "2025-12-14T17:36:45.640394+00:00", "kind": "peg", "symbol": null, "used_field": "pegRatio", "value": 1.2, "note": "used pegRatio directly"}
+{"ts": "2025-12-14T17:36:45.641178+00:00", "kind": "peg", "symbol": null, "used_field": "growth_candidate", "value": 0.2, "note": "used field value 0.2"}
+{"ts": "2025-12-14T17:36:45.641236+00:00", "kind": "peg", "symbol": null, "used_field": "estimated", "value": {"pe": 30.0, "growth_pct": 20.0, "peg_est": 1.5}, "note": "estimated from PE and growth"}

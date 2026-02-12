@@ -1,0 +1,5 @@
+{
+  "name": "주식 매매 앱",
+  "description": "An AI-powered Fund Manager that analyzes stock portfolios based on strict fundamental and technical filters, providing grade-based asset allocation recommendations.",
+  "requestFramePermissions": []
+}

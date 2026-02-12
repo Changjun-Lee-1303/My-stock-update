@@ -1,0 +1,28 @@
+{
+  "analysis_result": [
+    {
+      "ticker": "NVDA",
+      "recommended_percent": 20
+    },
+    {
+      "ticker": "META",
+      "recommended_percent": 10
+    },
+    {
+      "ticker": "GOOGL",
+      "recommended_percent": 15
+    },
+    {
+      "ticker": "AAPL",
+      "recommended_percent": 15
+    },
+    {
+      "ticker": "MSFT",
+      "recommended_percent": 15
+    },
+    {
+      "ticker": "TSLA",
+      "recommended_percent": 5
+    }
+  ]
+}

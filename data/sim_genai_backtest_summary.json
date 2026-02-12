@@ -1,0 +1,162 @@
+{
+  "start_cash": 10000000.0,
+  "final_cash": 10223813.711654663,
+  "total_profit": 223813.7116546631,
+  "return_pct": 2.2381371165466306,
+  "total_trades": 14,
+  "trade_pairs": 7,
+  "wins": 3,
+  "win_rate": 0.42857142857142855,
+  "mdd_pct": 2.061620429534912,
+  "paired_trades": [
+    {
+      "ticker": "NVDA",
+      "buy_price": 187.6199951171875,
+      "sell_price": 175.02000427246094,
+      "shares": 10659,
+      "pnl": -134303.30241394043,
+      "reason": "end"
+    },
+    {
+      "ticker": "META",
+      "buy_price": 710.5599975585938,
+      "sell_price": 666.469970703125,
+      "shares": 1407,
+      "pnl": -62034.66778564453,
+      "reason": "ma200_break"
+    },
+    {
+      "ticker": "META",
+      "buy_price": 673.4199829101562,
+      "sell_price": 666.7999877929688,
+      "shares": 1484,
+      "pnl": -9824.07275390625,
+      "reason": "ma200_break"
+    },
+    {
+      "ticker": "GOOGL",
+      "buy_price": 245.35000610351562,
+      "sell_price": 309.2900085449219,
+      "shares": 6113,
+      "pnl": 390865.2349243164,
+      "reason": "end"
+    },
+    {
+      "ticker": "AAPL",
+      "buy_price": 258.0199890136719,
+      "sell_price": 278.2799987792969,
+      "shares": 5813,
+      "pnl": 117771.43676757812,
+      "reason": "end"
+    },
+    {
+      "ticker": "MSFT",
+      "buy_price": 517.3499755859375,
+      "sell_price": 478.5299987792969,
+      "shares": 2899,
+      "pnl": -112539.11276245117,
+      "reason": "end"
+    },
+    {
+      "ticker": "TSLA",
+      "buy_price": 429.8299865722656,
+      "sell_price": 458.9599914550781,
+      "shares": 1163,
+      "pnl": 33878.19567871094,
+      "reason": "end"
+    }
+  ],
+  "trades": [
+    {
+      "ticker": "NVDA",
+      "action": "buy",
+      "price": 187.6199951171875,
+      "shares": 10659
+    },
+    {
+      "ticker": "NVDA",
+      "action": "sell",
+      "price": 175.02000427246094,
+      "shares": 10659,
+      "reason": "end"
+    },
+    {
+      "ticker": "META",
+      "action": "buy",
+      "price": 710.5599975585938,
+      "shares": 1407
+    },
+    {
+      "ticker": "META",
+      "action": "sell",
+      "price": 666.469970703125,
+      "shares": 1407,
+      "reason": "ma200_break"
+    },
+    {
+      "ticker": "META",
+      "action": "buy",
+      "price": 673.4199829101562,
+      "shares": 1484
+    },
+    {
+      "ticker": "META",
+      "action": "sell",
+      "price": 666.7999877929688,
+      "shares": 1484,
+      "reason": "ma200_break"
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "buy",
+      "price": 245.35000610351562,
+      "shares": 6113
+    },
+    {
+      "ticker": "GOOGL",
+      "action": "sell",
+      "price": 309.2900085449219,
+      "shares": 6113,
+      "reason": "end"
+    },
+    {
+      "ticker": "AAPL",
+      "action": "buy",
+      "price": 258.0199890136719,
+      "shares": 5813
+    },
+    {
+      "ticker": "AAPL",
+      "action": "sell",
+      "price": 278.2799987792969,
+      "shares": 5813,
+      "reason": "end"
+    },
+    {
+      "ticker": "MSFT",
+      "action": "buy",
+      "price": 517.3499755859375,
+      "shares": 2899
+    },
+    {
+      "ticker": "MSFT",
+      "action": "sell",
+      "price": 478.5299987792969,
+      "shares": 2899,
+      "reason": "end"
+    },
+    {
+      "ticker": "TSLA",
+      "action": "buy",
+      "price": 429.8299865722656,
+      "shares": 1163
+    },
+    {
+      "ticker": "TSLA",
+      "action": "sell",
+      "price": 458.9599914550781,
+      "shares": 1163,
+      "reason": "end"
+    }
+  ]
+}
